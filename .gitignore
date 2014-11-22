@@ -1,0 +1,7 @@
+*.orig
+*.dll
+*.userprefs
+NyanCat/bin/*
+NyanCat/obj/*
+*.suo
+*.csproj.user
